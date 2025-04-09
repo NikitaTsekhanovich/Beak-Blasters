@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c07d2f64b7fe8904f8306e541f549d95, type: 3}
+  m_Name: 5_NetworkLevel
+  m_EditorClassIdentifier: 
+  <IndexLevel>k__BackingField: 5
+  <LevelDurations>k__BackingField: 48
+  <IntervalSpawn>k__BackingField: 4
+  <EnemyConfigs>k__BackingField:
+  - {fileID: 11400000, guid: 9b757ff3c793fac449ce5bdbab75c70a, type: 2}
+  - {fileID: 11400000, guid: 17b0836599cbec64e84ffb3ec2d7c6f3, type: 2}
+  - {fileID: 11400000, guid: 6996de283ec4bf04faa16e61285ac311, type: 2}

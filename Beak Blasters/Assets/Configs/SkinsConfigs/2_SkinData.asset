@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c582887bd99814ea23372fc822d6c9, type: 3}
+  m_Name: 2_SkinData
+  m_EditorClassIdentifier: 
+  <Index>k__BackingField: 2
+  <Price>k__BackingField: 40
+  <GameSprite>k__BackingField: {fileID: 21300000, guid: ef23031b8e9783049a9b8c2861007c20, type: 3}
+  <NameText>k__BackingField: Chicken level 3
+  <DescriptionText>k__BackingField: 'Health: 15
+
+    Max Health: 27'
+  <StartHealth>k__BackingField: 15
+  <MaximumHealth>k__BackingField: 27

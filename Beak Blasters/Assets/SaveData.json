@@ -1,0 +1,19 @@
+{
+    "MusicSaveData": {
+        "MusicEnabled": false,
+        "SoundEffectsEnabled": false
+    },
+    "PlayerSaveData": {
+        "Name": "Killer1",
+        "Coins": 3986,
+        "BestScore": 69
+    },
+    "StoreSkinsData": {
+        "IndexChosenItem": 7,
+        "SerializableStatesItems": "{\"0\":1,\"1\":1,\"2\":1,\"3\":0,\"4\":1,\"5\":0,\"6\":1,\"7\":2}"
+    },
+    "StoreWeaponsData": {
+        "IndexChosenItem": 3,
+        "SerializableStatesItems": "{\"0\":1,\"1\":1,\"2\":1,\"3\":2,\"4\":1,\"5\":1,\"6\":1,\"7\":1}"
+    }
+}
